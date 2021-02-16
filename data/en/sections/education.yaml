@@ -1,0 +1,69 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Integrated Master Degree in Electronics and Telecommunications Engineering
+  icon: fa-graduation-cap
+  timeframe: 2009-2017
+  institution:
+    name: University of Aveiro
+    url: "#"
+  #degree-info: #(optional)         ADICIONAR PROJETOS!!!
+  #- title: Masther thesis "Medical Monitroing Signals"
+  #  url: "#"
+  #- title: Projeto licenciatura!
+  #  url: "#"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Mathematics -> Mathematical Analysis I,II,III ; Linear Algebra ; Numerical Analysis ; Electrotechnical Probabilistic Methods
+    - name: Informatics -> Programming I,II ; Digital Systems ; Computer Architecture I,II ; Operating Systems
+    - name: Physics -> Oscillations and Mechanics ; Electromagnetic Field ; Solid State Physics Topics ; Electromagnetic Waves Propagation
+    - name: Electronics -> Laboratory Techniques in Laboratory ; Circuit Analysis ; Electronics I,II,III,IV ; Electrotechnical Theory ; Microelectronics ; Power Electronics ; Low Power Electronics 
+    - name: Telecommunications -> Communication Systems I,II ; Antennas and Wave Guides ; Telecommunications Networks
+    - name: Signal Processing -> Introduction to Signal Processing Analysis ; Digital Signal Processing 
+    - name: Others -> Intelligent Mobile Robotics ; Systems and Control I,II ; Project Management and Entrepreneurship
+  extracurricularActivities: #(optional)
+  - Futsal in the course team (2011-2014, 2015/2016)
+  - Footbal in the university team (2013/2014, 2014/2015) 
+  - Erasmus Buddy (2015)
+  
+- name: Workshop "Medtech" organized by EESTEC
+  icon: fa-graduation-cap
+  timeframe: 12-2016
+  institution:
+    name: Technical University of Munich
+    url: "#"
+  summary: Workshop in Munich with the title "MedTech" about life-saving technologies that lasted 7 days done with people from different European countries. It consisted in visiting some of the most advanced medical research institutions in Munich.
+
+- name: Course - "Hack It, Test It, Try to Break It!" organized by BEST
+  icon: fa-graduation-cap
+  timeframe: 07-2016
+  summary: Summer course organized by BEST about Computer Security that lasted 11 days done with people from different European countries in Timișoara (Romania).
+  institution:
+    name: Politehnica University of Timisoara
+    url: "#"
+ 
+- name: Erasmus+ programme
+  icon: fa-graduation-cap
+  timeframe: 2014-2015
+  summary: Spent one semester studying in Kraków (Poland) in a different culture, with different teaching methods, with people from all over the world.
+  institution:
+    name: AGH University of Science and Technology
+    url: "#"
+
+- name: Secondary School
+  icon: fa-school
+  timeframe: 2006-2009
+  institution:
+    name: Secondary School of Sertã
+    

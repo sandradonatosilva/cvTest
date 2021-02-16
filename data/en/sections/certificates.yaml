@@ -1,0 +1,94 @@
+# section information
+section:
+  name: Certificates
+  id: certificates
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+# your projects
+projects:
+- name: Data Visualization with Python
+  logo: /images/sections/projects/coursera.png
+  role: IBM Cognitive Class in Coursera
+  timeline: 01/2021
+  summary: "add text here!!!!!!!!!!!!!!!"
+  url: "https://www.youracclaim.com/badges/d320c8af-f3be-4548-af0f-e8992f0b2233?source=linked_in_profile"
+  tags: ["hobby"]
+
+- name: Python for Data Science and AI
+  logo: /images/sections/projects/coursera.png
+  role: IBM Cognitive Class in Coursera
+  timeline: 12/2020
+  summary: "add text here!!!!!!!!!!!!!!!"
+  url: "https://www.youracclaim.com/badges/f181ad86-2dca-487c-acdd-3cb85eb49ed3?source=linked_in_profile"
+  tags: ["hobby"]
+  
+- name: Design Engineer level 3 (Shared Data Layer)
+  logo: /images/sections/projects/nokia.jpg
+  role: 
+  timeline: 12/2020
+  summary: "add text here!!!!!!!!!!!!!!!"
+  url: 
+  tags: ["professional"]
+  
+- name: Data Science Methodology
+  logo: /images/sections/projects/coursera.png
+  role: IBM Cognitive Class in Coursera
+  timeline: 10/2020
+  summary: 
+  url: "https://www.youracclaim.com/badges/4a9c4675-c4cd-4fe4-88f8-b08fd6412a5e?source=linked_in_profile"
+  tags: ["hobby"]
+
+- name: Tools for Data Science
+  logo: /images/sections/projects/coursera.png
+  role: IBM Cognitive Class in Coursera
+  timeline: 10/2020
+  summary: 
+  url: "https://www.youracclaim.com/badges/aa327975-589c-4b4e-8f3b-2bf1a2c65afc?source=linked_in_profile"
+  tags: ["hobby"]
+  
+- name: Data Science Orientation
+  logo: /images/sections/projects/coursera.png
+  role: IBM Cognitive Class in Coursera
+  timeline: 10/2020
+  summary: 
+  url: "https://www.youracclaim.com/badges/aa327975-589c-4b4e-8f3b-2bf1a2c65afc?source=linked_in_profile"
+  tags: ["hobby"]
+
+- name: Workshop "Medtech" organized by EESTEC
+  logo: /images/sections/projects/tum.jpg
+  role: Technical University of Munich
+  timeline: 2016
+  summary: 
+  url: ""
+  tags: ["academic"]
+
+- name: Course - "Hack It, Test It, Try to Break It!" organized by BEST
+  logo: /images/sections/projects/upr.png
+  role: Politehnica University of Timisoara
+  timeline: 2016
+  summary: 
+  url: ""
+  tags: ["academic"]
+  
+- name: Certificate in English level B2
+  logo: /images/sections/projects/UA.jpg
+  role: University of Aveiro
+  timeline: 2014
+  summary: 
+  url: ""
+  tags: ["academic"]
