@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JDS</title>
-    <link>https://github.com/sandradonatosilva/cvTest/</link>
+    <link>https://app.netlify.com/sites/romantic-franklin-9ab5ca/deploys/602c162f3ce5a500da348792/</link>
     <description>Recent content on JDS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/sandradonatosilva/cvTest/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://app.netlify.com/sites/romantic-franklin-9ab5ca/deploys/602c162f3ce5a500da348792/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
